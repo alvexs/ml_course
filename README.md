@@ -9,7 +9,16 @@ git clone git@github.com:alvexs/ml_course.git
 cd ml_course
 pip3 install -r requirements.txt
 ```
+#### Запуск ноутбука
+
+```
+jupyter notebook
+```
 
 Лабораторные работы:
 1. *[Лабораторная работа 1](https://github.com/alvexs/ml_course/blob/master/lab1/Chance_of_Admit_EDA.ipynb)* + **[Отчет](https://github.com/alvexs/ml_course/blob/master/lab1/Chance_of_Admit_EDA.pdf)**.
 
+```
+cd lab1
+jupyter notebook Chance_of_Admit_EDA.ipynb
+```
