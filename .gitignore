@@ -1,0 +1,18 @@
+#venv dirs
+/bin
+/include
+/lib
+/etc
+/share
+/common
+
+#python
+.Python
+
+#jupyter
+/lab1/Chance_of_Admit_EDA_files
+/lab1/Chance_of_Admit_EDA.log
+/lab1/Chance_of_Admit_EDA.tex
+/lab1/.ipynb_checkpoints/
+
+
