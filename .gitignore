@@ -9,10 +9,13 @@
 #python
 .Python
 
+.log
+.tex
+.save
+.ipynb_checkpoints/
+
 #jupyter
 /lab1/Chance_of_Admit_EDA_files
 /lab1/Chance_of_Admit_EDA.log
 /lab1/Chance_of_Admit_EDA.tex
 /lab1/.ipynb_checkpoints/
-
-
