@@ -14,7 +14,7 @@ pip3 install -r requirements.txt
 ```
 jupyter notebook
 ```
-
+[Домашнее задание](#hw)
 Лабораторные работы:
 1. *[Лабораторная работа 1](https://github.com/alvexs/ml_course/blob/master/lab1/Chance_of_Admit_EDA.ipynb)* + **[Отчет](https://github.com/alvexs/ml_course/blob/master/lab1/Chance_of_Admit_EDA.pdf)**.
 
@@ -58,5 +58,5 @@ cd Lab_6
 jupyter notebook mlcourse_lab6.ipynb
 ```
 
-Домашнее задание
+<a name="hw">Домашнее задание</a>
 *[Ноутбук](https://github.com/alvexs/ml_course/blob/master/HW_1/DZ_ML.ipynb)* + **[Отчет](https://github.com/alvexs/ml_course/blob/master/HW_1/DZ_ML.pdf)**.
