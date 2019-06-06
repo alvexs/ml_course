@@ -14,8 +14,9 @@ pip3 install -r requirements.txt
 ```
 jupyter notebook
 ```
-[Домашнее задание](#hw)
-Лабораторные работы:
+##### [Домашнее задание](#hw)
+
+##### Лабораторные работы:
 1. *[Лабораторная работа 1](https://github.com/alvexs/ml_course/blob/master/lab1/Chance_of_Admit_EDA.ipynb)* + **[Отчет](https://github.com/alvexs/ml_course/blob/master/lab1/Chance_of_Admit_EDA.pdf)**.
 
 ```
